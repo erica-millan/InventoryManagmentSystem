@@ -1,0 +1,6 @@
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication.Models\bin\Debug\InventoryApplication.Models.dll
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication.Models\bin\Debug\InventoryApplication.Models.pdb
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication.Models\obj\Debug\InventoryApplication.Models.csproj.AssemblyReference.cache
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication.Models\obj\Debug\InventoryApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication.Models\obj\Debug\InventoryApplication.Models.dll
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication.Models\obj\Debug\InventoryApplication.Models.pdb

@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\erica\\source\\repos\\financemanager\\financemanager\\addorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\datarepository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\addorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\datarepository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\db\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\datarepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\models\\topproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\models\\topproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\editinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\models\\orderproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\models\\orderproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|C:\\Users\\erica\\source\\repos\\InventoryApplication2\\inventoryapplication.models\\models\\ordersbydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2879A-9154-4D77-BD35-67773492DBA6}|InventoryApplication.Models\\InventoryApplication.Models.csproj|solutionrelative:inventoryapplication.models\\models\\ordersbydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\editinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\addinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\addorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\addcustomer.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\businessdatadataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A01C1-5F65-4C1D-AC4A-34264CD04053}|..\\FinanceManager\\FinanceManager\\FinanceManager.csproj|C:\\Users\\erica\\source\\repos\\financemanager\\financemanager\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrderItem.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddOrderItem.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrderItem.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddOrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:25:48.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Form1.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\Form1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAewCkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-21T01:15:31.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-21T01:15:25.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Interfaces\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Interfaces\\IOrderItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:47:45.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:47:03.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:47:54.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\DataRepository\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\DataRepository\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\DataRepository\\OrderItemRepository.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\DataRepository\\OrderItemRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA3wCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:47:29.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddOrderItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrderItem.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddOrderItem.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrderItem.cs [Design]",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddOrderItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-21T01:25:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\Customer.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:50:20.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\Order.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:03:20.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\DataRepository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\DataRepository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\DataRepository\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\DataRepository\\CustomerRepository.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAADwv24AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:13:10.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Db\\DbConnection.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\Db\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Db\\DbConnection.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\Db\\DbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:16:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddOrder.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrder.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddOrder.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrder.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddOrder.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAApwFcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-20T04:13:29.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrder.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddOrder.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrder.cs [Design]",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-20T04:13:28.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\DataRepository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\DataRepository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\DataRepository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\DataRepository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:34:11.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:32:57.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:33:30.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Interfaces\\ISupplierRepository.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Interfaces\\ISupplierRepository.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Interfaces\\ISupplierRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:48:05.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\Program.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Program.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:49:41.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditInventoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\EditInventoryForm.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\EditInventoryForm.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\EditInventoryForm.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\EditInventoryForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-20T16:16:14.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TopProducts.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\TopProducts.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Models\\TopProducts.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\TopProducts.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Models\\TopProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:21:00.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\OrderItem.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:32:50.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderProducts.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\OrderProducts.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Models\\OrderProducts.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\OrderProducts.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Models\\OrderProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:32:49.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrdersByDate.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\OrdersByDate.cs",
+              "RelativeDocumentMoniker": "InventoryApplication.Models\\Models\\OrdersByDate.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\InventoryApplication2\\InventoryApplication.Models\\Models\\OrdersByDate.cs",
+              "RelativeToolTip": "InventoryApplication.Models\\Models\\OrdersByDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:41:32.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditInventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\EditInventoryForm.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\EditInventoryForm.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\EditInventoryForm.cs [Design]",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\EditInventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-20T16:16:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddInventoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddInventoryForm.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddInventoryForm.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddInventoryForm.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddInventoryForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-20T04:04:58.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrder.Designer.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddOrder.Designer.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddOrder.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-12-27T17:49:51.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddCustomer.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddCustomer.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-27T04:03:26.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddCustomer.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-27T04:03:23.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddCustomer.resx",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddCustomer.resx",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\AddCustomer.resx",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\AddCustomer.resx",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\AddCustomer.resx",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-21T01:12:56.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBEAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-15T03:07:02.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BusinessDataDataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\BusinessDataDataSet1.xsd",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\BusinessDataDataSet1.xsd",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\BusinessDataDataSet1.xsd",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\BusinessDataDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-11-15T02:47:23.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "..\\FinanceManager\\FinanceManager\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\erica\\source\\repos\\FinanceManager\\FinanceManager\\DataSet1.xsd",
+              "RelativeToolTip": "..\\FinanceManager\\FinanceManager\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-11-15T02:47:13.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

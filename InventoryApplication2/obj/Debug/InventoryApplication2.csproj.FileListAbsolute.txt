@@ -1,0 +1,14 @@
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\bin\Debug\InventoryApplication2.exe.config
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\bin\Debug\InventoryApplication2.exe
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\bin\Debug\InventoryApplication2.pdb
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\bin\Debug\InventoryApplication.Models.dll
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\bin\Debug\InventoryApplication.Models.pdb
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.csproj.AssemblyReference.cache
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.Form1.resources
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.Properties.Resources.resources
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.csproj.GenerateResource.cache
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.csproj.CoreCompileInputs.cache
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.csproj.CopyComplete
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.exe
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.pdb
+C:\Users\erica\source\repos\InventoryApplication2\InventoryApplication2\obj\Debug\InventoryApplication2.TestForm.resources
